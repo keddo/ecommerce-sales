@@ -1,6 +1,7 @@
 # 🛒 Ecommerce Sales Platform
 
 A full-featured multi-platform ecommerce solution that includes a backend API, a responsive web frontend, and a mobile shopping app — all within one project directory.
+This repository is dedicated to showcasing full-stack MERN (MongoDB, Express, React, Node.js) projects, with a special focus on demonstrating the power and flexibility of React across web and mobile platforms. The featured project is a complete e-commerce solution consisting of a backend API, a web frontend, and a mobile application built using React Native and Expo. It highlights how modern JavaScript technologies can be combined to build dynamic, scalable, and responsive shopping experiences. From secure user authentication to product browsing, cart management, and seamless checkout, this project demonstrates the real-world capabilities of the MERN stack in both web and mobile development contexts.
 
 ## 📦 Project Structure
 
